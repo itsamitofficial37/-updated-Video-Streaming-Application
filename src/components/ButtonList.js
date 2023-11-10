@@ -2,7 +2,7 @@ import React, {  useRef } from "react";
 import Button from "./Button";
 import letScrollIcon from "../assets/left-scroll.svg";
 import rightScrollIcon from "../assets/right-scroll.svg";
-// import { CATEGORIES_API } from "../utils/constants";
+
 
 const btnList = [
   "All",
